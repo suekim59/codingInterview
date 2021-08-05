@@ -1,7 +1,7 @@
 # cheil-tag-generator
 
-- 이전의 축적된 DB 자료에서 Campaign, Ad Group, CID 등 각각의 탭에서 
-   조건을 설정해 이에 알맞는 캠페인 리스트를 검색할 수 있는 웹페이지
+이전의 축적된 DB 자료에서 Campaign, Ad Group, CID 등 각각의 탭에서 
+조건을 설정해 이에 알맞는 캠페인 리스트를 검색할 수 있는 웹페이지
 
 
 ### 프로젝트 주요 기능
